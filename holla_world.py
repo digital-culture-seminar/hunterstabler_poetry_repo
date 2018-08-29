@@ -1,26 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
+import random
 
-This is a temporary script file.
-"""
+#set the random seed
+random.seed()
 
-
-
-
-# this is a comment
-# comment
-# commentiquette
-
-
-"""
-a big comment block
-hey more comments also!!
-description: simple script
-"""
-
-#set variables
-wa = "new"
-
-# print statement
-print "Hello {adj} World!" .format(adj=wa)
+#lists of words
+nouns =
