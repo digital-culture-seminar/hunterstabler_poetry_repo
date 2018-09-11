@@ -13,39 +13,51 @@ import random
 # "list of exclamations"
 exclamations = ["Wow", "Yeet", "Goodbye", "Hallelujah", "Nam Myoho Renge Kyo", 
                 "He gave us some yogurt", "Kamehame ha", "Oh dear", "Yes", 
-                "Ow", "Sup bibble", "Yip", "Okay"]
+                "Ow", "Sup bibble", "Yip", "Okay", "Hola", "And so it will be"
+                "Hark"]
 
 # "list of nouns"
 nouns = ["savant", "sheeple", "weavel", "goober", "tuber", "owl", "bowels",
          "carpet", "snack", "arch", "toenail", "horse hair", "compost", "casm", 
         "pocket", "dullard", "mallard", "listicle", "miracle", "awl", 
-        "Demiurge", "mangosteen", "Timor", "pow wow"  ]
+        "Demiurge", "mangosteen", "Timor", "pow wow", "detour","ShamWow"   ]
 
-# list of verbs
+# "list of place nouns"
+place_nouns = ["hind quarters", "AA meeting", "parking lot", "noise festival",
+               "Apalachians", "Zeta Reticuli", "ocean floor", "HoJo", "Dojo",
+               "onsen"]
+
+# "list of verbs"
 verbs = ["flies", "whacks", "dabbles", "immolates", "tastes", "summons",
          "channels", ]
 
-# list of adjectives
+# "list of adjectives"
 adjectives = ["cold", "frumpy", "acrid", "sour", "toasty", "smarmy", "doty",
               "spidery", "wispy", "angular", "sharp", "tiniest", "basic", 
               "omnipresent", "oracular", "miraculous", "super computer", 
               "awe inspiring", "analogue", "analogous",]
-
+# "list of adverbs"
 adverbs = ["slinkily", "eagerly", "brutally", "unabashedly", "daily", "soon", 
            "outside", "underground","prophetically", "extremely"  ]
+
 noun = random.choice(nouns)
 second_noun = random.choice(nouns)
 third_noun = random.choice(nouns)
+fourth_noun = random.choice(nouns)
 
 verb = random.choice(verbs)
 second_verb = random.choice(verbs)
+third_verb = random.choice(verbs)
 
 adjective = random.choice(adjectives)
 second_adjective = random.choice(adjectives)
 
 adverb = random.choice(adverbs)
+second_adverb = random.choice(adverbs)
 
 exclamation = random.choice(exclamations)
+
+place_noun = random.choice(place_nouns)
 
 ##concatenation
 #print "The " + adjective + ", " + second_adjective + " " + noun + " " + verb
@@ -63,13 +75,15 @@ exclamation = random.choice(exclamations)
 
 
 #string formatting
-print "{ex}, The {adj} {n} {adv} {v} a {sn} whilst the {tn} {sv}.".format(adj=adjective,
+print " {ex}, The {adj} {n} {adv} {v} a {sn} whilst the {tn} {sv}.".format(adj=adjective,
            n=noun, v=verb, sn=second_noun, tn=third_noun, sv=second_verb, 
-           adv=adverb, ex=exclamation)
+           adv=adverb, ex=exclamation, pn=place_noun, sa=second_adverb, 
+           fn=fourth_noun, tv=third_verb)
 
 #i = 0
 #for noun in nouns:
 #    print nouns[i]
 #    i = i + 1
 
+#" How can a {sa} {fn} {tv} in the {pn}? "
 
