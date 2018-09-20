@@ -1,5 +1,4 @@
 # readme
-# readme
 # Digital Culture Seminar
 ## Poet Artist Statement
 ### Hunter Stabler
