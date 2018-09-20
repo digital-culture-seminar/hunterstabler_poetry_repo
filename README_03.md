@@ -10,7 +10,7 @@ A generated poem example can be seen below:
 
  Nam Myoho Renge Kyo, The cold ShamWow extremely hovers a bowels whilst the Demiurge channels a mallard. How can a analogous tuber immolate in the noise festival?
 
-Through the intervention of many random ecstatic computational poem iterations, cryptically prophetic metaphorical meaning will spill from the shadow of the future into the present. Unfortunately, the meaning of said poems will only become fully clear to the consensus public after the events have occurred, not earlier when the prescient poem was generated. This outstanding problem of interpreting vague metaphors about future events is one best left to poets, the time tested masters of singular, direct, and objective, semiotics and semantics.
+Through the intervention of many random ecstatic computational poem iterations, cryptically prophetic metaphorical meaning will spill from the shadow of the future into the present. Unfortunately, the meaning of said poems will only become fully clear to the consensus public after the events have occurred, not earlier when the prescient poem was generated. This outstanding problem of interpreting vague metaphors about future events is one best left to poets, the time tested masters of singular, direct, and objective semiotics and semantics.
 
 ''' python
 
