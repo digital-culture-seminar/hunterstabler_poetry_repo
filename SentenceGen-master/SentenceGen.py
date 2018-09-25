@@ -1,13 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 25 15:01:44 2018
-
-@author: hunterstabler
-"""
-
-#Experiment with sentence generator
-
 #filename: SentenceGen.py
 #author: Jake Medina
 
@@ -54,17 +44,17 @@ prepcheck='preposition'
 procheck='pronoun'
 
 
-path=('/Users/hunterstabler/Documents/Github/hunterstabler_poetry_repo/SentenceGen-master')
+path=('/Volumes/JM ACE/ACE 2013-14/Programming/Python Programs/SentenceGen/')
 
-noun=('/Users/hunterstabler/Documents/Github/hunterstabler_poetry_repo/SentenceGen-master/noun.txt')
-adj=('/Users/hunterstabler/Documents/Github/hunterstabler_poetry_repo/SentenceGen-master/adjective.txt')
-adv=('/Users/hunterstabler/Documents/Github/hunterstabler_poetry_repo/SentenceGen-master/adverb.txt')
-verb=('/Users/hunterstabler/Documents/Github/hunterstabler_poetry_repo/SentenceGen-master/verb.txt')
-art=('/Users/hunterstabler/Documents/Github/hunterstabler_poetry_repo/SentenceGen-master/article.txt')
-conj=('/Users/hunterstabler/Documents/Github/hunterstabler_poetry_repo/SentenceGen-master/conjunction.txt')
-int=('/Users/hunterstabler/Documents/Github/hunterstabler_poetry_repo/SentenceGen-master/interjection.txt')
-prep=('/Users/hunterstabler/Documents/Github/hunterstabler_poetry_repo/SentenceGen-master/preposition.txt')
-pro=('/Users/hunterstabler/Documents/Github/hunterstabler_poetry_repo/SentenceGen-master/pronoun.txt')
+noun=('/Volumes/JM ACE/ACE 2013-14/Programming/Python Programs/SentenceGen/noun.txt')
+adj=('/Volumes/JM ACE/ACE 2013-14/Programming/Python Programs/SentenceGen/adjective.txt')
+adv=('/Volumes/JM ACE/ACE 2013-14/Programming/Python Programs/SentenceGen/adverb.txt')
+verb=('/Volumes/JM ACE/ACE 2013-14/Programming/Python Programs/SentenceGen/verb.txt')
+art=('/Volumes/JM ACE/ACE 2013-14/Programming/Python Programs/SentenceGen/article.txt')
+conj=('/Volumes/JM ACE/ACE 2013-14/Programming/Python Programs/SentenceGen/conjunction.txt')
+int=('/Volumes/JM ACE/ACE 2013-14/Programming/Python Programs/SentenceGen/interjection.txt')
+prep=('/Volumes/JM ACE/ACE 2013-14/Programming/Python Programs/SentenceGen/preposition.txt')
+pro=('/Volumes/JM ACE/ACE 2013-14/Programming/Python Programs/SentenceGen/pronoun.txt')
 
 infile=open(noun,'r')
 infile=open(adj,'r')
