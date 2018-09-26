@@ -11,7 +11,7 @@ import random
 
 
 # "list of exclamations"
-exclamations = ["Wow", "Yeet", "Goodbye", "Hallelujah", "Nam Myoho Renge Kyo", 
+exclamations = ["Howbowda", "Excellent","Wow", "Yeet", "Goodbye", "Hallelujah", "Nam Myoho Renge Kyo", 
                 "He gave us some yogurt", "Kamehame ha", "Oh dear", "Yes", 
                 "Ow", "Sup bibble", "Yip", "Okay", "Hola", "And so it will be",
                 "Hark"]
