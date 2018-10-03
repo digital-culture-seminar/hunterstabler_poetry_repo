@@ -1,0 +1,34 @@
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Oct  2 19:22:14 2018
+
+@author: hunterstabler
+"""
+
+import markovify
+
+with open ("immortality.txt") as file:
+    imrt = file.read()
+    
+with open ("bulfinch.txt") as file:
+    bul = file.read()
+    
+with open ("pagan tribes of borneo.txt") as file:
+    p_t_b = file.read()
+    
+with open ("palace_of_pleasure.txt") as file:
+    p_o_p = file.read()
+    
+power_model = markovify.Text(imrt)
+bull_model = markovify.Text(bul)
+pag_model = markovify.Text(p_t_b)
+pal_model = markovify.Text(p_o_p)
+
+synthesized_model = markovify.combine([power_model, bull_model, pag_model, pal_model],[1,1,1,1])
+
+#for i in range(3):
+   # print power_model.make_sentence()
+    #print " "
+print synthesized_model.make_sentence()
+    
