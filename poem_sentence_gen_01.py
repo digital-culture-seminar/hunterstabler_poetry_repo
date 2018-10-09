@@ -36,10 +36,11 @@ with open ("pronoun.txt") as file:
     pron = file.read()
     
 with open ("verb.txt") as file:
-    vrb = file.read
+    vrb = file.read()
     
     
 n = random.choice(nn)
+v = random.choice(vrb)
 
 
-print n
+print v
