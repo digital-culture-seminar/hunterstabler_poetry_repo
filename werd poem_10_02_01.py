@@ -73,6 +73,8 @@ place_noun = random.choice(place_nouns)
 #    print whitespace + verb
 #    i = i + 1
 
+for i in range(1,10):
+
 def sentence_structure_1():    
     #string formatting
     print " {ex}, The {adj} {n} {adv} {v}s a {sn} whilst the {tn} {sv}s a {fthn}.\

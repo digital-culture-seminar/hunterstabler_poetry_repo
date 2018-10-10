@@ -51,3 +51,4 @@ v = random.choice(vrb)
 print v
 
 #add precip = csv.reader(csv)
+#look up csv reader and import csv

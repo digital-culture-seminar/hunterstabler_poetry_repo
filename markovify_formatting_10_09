@@ -5,6 +5,9 @@ Created on Tue Oct  2 19:22:14 2018
 
 @author: hunterstabler
 """
+mylist = [] iy
+for i in range(0,5):
+    my_list.append(synthesized_model.make_sentence(140))
 
 import markovify
 
