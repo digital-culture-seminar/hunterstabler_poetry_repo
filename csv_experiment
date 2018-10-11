@@ -11,6 +11,6 @@ Created on Thu Oct 11 06:45:07 2018
 import csv
 
 with open(csv_experiment_1.csv) as csvfile:
-    myreader = csv.reader()
+    myreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
     for row in myreader:
-        print ", ".join(row)
+        print 
