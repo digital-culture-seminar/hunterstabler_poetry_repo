@@ -15,7 +15,9 @@ A generated poem example can be seen below:
 
 ## A Testuary Exegesis
 ```
-Only you have the goodliest view Of this sweet spot, Some fainter gleamings o'er his book: Who had power To make me sick Of joy and pain; Clasp'd like a milk-white lamb that bleats For man's protection.
+Only you have the goodliest view of this sweet spot, Some fainter gleamings o'er his book: 
+Who had power to make me sick of joy and pain; 
+Clasp'd like a milk-white lamb that bleats For man's protection.
 ```
 
 ```
@@ -34,32 +36,41 @@ But what is fair?
 
 
 ```
-The bowery shore Went off in gentle windings to the tender greening Of April meddles?
+The bowery shore went off in gentle windings to the tender greening of April meddles?
 ```
 
 
 ```
-This passion lifted him upon his arm He lean'd; not rising, from supreme contempt.
+This passion lifted him upon his arm he lean'd; not rising, from supreme contempt.
 ```
 
 
 ```
-Silent entangler of a leafy world We rest in hope To see no other breezes than are blown Through verdurous glooms and winding mossy ways.
+Silent entangler of a leafy world 
+we rest in hope to see 
+no other breezes than are blown through verdurous glooms and winding mossy ways.
 ```
 
 
 ```
-Let the mad poets say whate'er they please Of the leaves hast never told How, from a land Of fragrance, quietness, and trees, and flowers mold.
+Let the mad poets say whate'er they please of the leaves hast never told 
+how, from a land Of fragrance, quietness, and trees, and flowers mold.
 ```
 
 
 ```
-Then, once again, the charmed God began An oath, and through the water round that bend; Not the minutest whisper does it send To the wide-spreaded night above her towers send.
+Then, once again, the charmed God began an oath, 
+and through the water round that bend; 
+Not the minutest whisper does it send 
+To the wide-spreaded night above her towers end.
 ```
 
 
 ```
-At a touch sweet Pleasure melteth Like bubbles when rain pelteth; Then let winged Fancy wander Through the thought of every guest; that each, as he had found a little noiseless noise among the em'rald tresses; While the ermine let music wander skittering round my ears.
+At a touch sweet pleasure melteth like bubbles when rain pelteth; 
+Then let winged fancy wander through the thought of every guest
+that each, as he had found a little noiseless noise among the em'rald tresses; 
+While the ermine let music wander skittering round my ears.
 ```
 
 Through the intervention of many random ecstatic computational poem iterations, cryptically prophetic metaphorical meaning will spill from the shadow of the future into the present. Unfortunately, the meaning of said poems will only become fully clear to the consensus public after the events have occurred, not earlier when the prescient poem was generated. This outstanding problem of interpreting vague metaphors about future events is one best left to poets, the time tested masters of singular, direct, and objective, semiotics and semantics.
