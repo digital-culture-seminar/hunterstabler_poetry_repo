@@ -2,6 +2,9 @@
 # Digital Culture Poet
 ## Artist Statement
 
+I am using a Markov Generator to create a poem that uses many Keats' poems and one of my poems as the source of text. I will experiment with weighting the libraries to get desirable results that reflect the style of both poets. Currently the flavor favors Keats because there is just so much more Keats material that the generator is sourcing from.
+
+non working model for other idea:
 I would like to create a poem generator that randomly inserts elements into a multi-sentence composed poem. The generator would add nouns, pronouns, interjections, verbs, adverbs, adjectives, and prepositions from libraries of these forms of speech that I have curated. I would like to maintain control over the composition and tone of the poem by dictating its structure and dictating the words that are present in the libraries. The elements that are left to programmatic chance and random associative meaning within the poem
 will be controlled by random number generation that decides which particular nouns, verbs, adjectives, etc get paired together within the composed poem sentences and lines.
 
@@ -10,7 +13,54 @@ I aim to use code as a divination tool to access the collective consciousness of
 
 A generated poem example can be seen below:
 
- Nam Myoho Renge Kyo, The cold ShamWow extremely hovers a bowels whilst the Demiurge channels a mallard. How can a analogous tuber immolate in the noise festival?
+## A Testuary Exegesis
+```
+Only you have the goodliest view Of this sweet spot, Some fainter gleamings o'er his book: Who had power To make me sick Of joy and pain; Clasp'd like a milk-white lamb that bleats For man's protection.
+```
+
+```
+What does he murmur with his maid, And to his eyes; And from the far-foamed sands.
+```
+
+
+```
+Then in a bed of snow.
+```
+
+
+```
+But what is fair?
+```
+
+
+```
+The bowery shore Went off in gentle windings to the tender greening Of April meddles?
+```
+
+
+```
+This passion lifted him upon his arm He lean'd; not rising, from supreme contempt.
+```
+
+
+```
+Silent entangler of a leafy world We rest in hope To see no other breezes than are blown Through verdurous glooms and winding mossy ways.
+```
+
+
+```
+Let the mad poets say whate'er they please Of the leaves hast never told How, from a land Of fragrance, quietness, and trees, and flowers mold.
+```
+
+
+```
+Then, once again, the charmed God began An oath, and through the water round that bend; Not the minutest whisper does it send To the wide-spreaded night above her towers send.
+```
+
+
+```
+At a touch sweet Pleasure melteth Like bubbles when rain pelteth; Then let winged Fancy wander Through the thought of every guest; that each, as he had found a little noiseless noise among the em'rald tresses; While the ermine let music wander skittering round my ears.
+```
 
 Through the intervention of many random ecstatic computational poem iterations, cryptically prophetic metaphorical meaning will spill from the shadow of the future into the present. Unfortunately, the meaning of said poems will only become fully clear to the consensus public after the events have occurred, not earlier when the prescient poem was generated. This outstanding problem of interpreting vague metaphors about future events is one best left to poets, the time tested masters of singular, direct, and objective, semiotics and semantics.
 
@@ -18,6 +68,61 @@ Through the intervention of many random ecstatic computational poem iterations, 
 
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
+"""
+Created on Tue Oct  2 19:22:14 2018
+
+@author: hunterstabler
+"""
+#mylist = [] i
+#for i in range(0,5):
+#    my_list.append(synthesized_model.make_sentence(140))
+
+import markovify
+
+with open ("experimental artist statement_2017.txt") as file:
+    eas = file.read()
+
+with open ("keats_02_edited.txt") as file:
+    keats2 = file.read()
+
+with open ("keats_edited.txt") as file:
+    keats = file.read()
+
+with open ("palace_of_pleasure.txt") as file:
+    p_o_p = file.read()
+
+power_model = markovify.Text(eas)
+bull_model = markovify.Text(keats2)
+pag_model = markovify.Text(keats)
+pal_model = markovify.Text(p_o_p)
+
+synthesized_model = markovify.combine([power_model, bull_model, pag_model],[1,1,1])
+
+#for i in range(3):
+   # print power_model.make_sentence()
+    #print " "
+
+
+poem = synthesized_model.make_sentence()
+
+#with open("poem_experiment_class.md", "w") as f:
+#    f.write("## Title")
+#    f.write("\n")        
+#    f.write("'''")
+#    f.write("\n")
+#    f.write(poem)
+#    f.write("\n")
+#    f.write("'''")
+
+
+with open("keats_experiment_03.md", "a") as f:
+    f.write("""
+
+```
+{poem}
+```
+""".format(poem=poem))
+
 """
 author: Hunter Stabler
 DESCRIPTION: python poem generator
