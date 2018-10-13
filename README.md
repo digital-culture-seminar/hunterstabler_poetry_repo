@@ -17,7 +17,7 @@ A generated poem example can be seen below:
 ```
 Only you have the goodliest view of this sweet spot, Some fainter gleamings o'er his book: 
 Who had power to make me sick of joy and pain; 
-Clasp'd like a milk-white lamb that bleats For man's protection.
+Clasp'd like a milk-white lamb that bleats for man's protection.
 ```
 
 ```
@@ -36,7 +36,7 @@ But what is fair?
 
 
 ```
-The bowery shore went off in gentle windings to the tender greening of April meddles?
+The bowery shore went off in gentle windings to the tender greening of April meddles.
 ```
 
 
@@ -54,7 +54,7 @@ no other breezes than are blown through verdurous glooms and winding mossy ways.
 
 ```
 Let the mad poets say whate'er they please of the leaves hast never told 
-how, from a land Of fragrance, quietness, and trees, and flowers mold.
+how, from a land of fragrance, quietness, and trees, and flowers mold.
 ```
 
 
