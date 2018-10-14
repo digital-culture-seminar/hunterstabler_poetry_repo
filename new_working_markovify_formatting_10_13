@@ -28,7 +28,7 @@ bull_model = markovify.Text(keats2)
 pag_model = markovify.Text(keats)
 pal_model = markovify.Text(p_o_p)
 
-synthesized_model = markovify.combine([power_model, bull_model, pag_model],[40,1,1])
+synthesized_model = markovify.combine([power_model, bull_model, pag_model],[10,1,1])
 
 #for i in range(3):
    # print power_model.make_sentence()
@@ -47,7 +47,7 @@ poem = synthesized_model.make_sentence()
 #    f.write("'''")
     
     
-with open("keats_experiment_05.md", "a") as f:
+with open("keats_experiment_06.md", "a") as f:
     f.write("""
 
 ```
