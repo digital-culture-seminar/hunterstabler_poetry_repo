@@ -42,7 +42,7 @@ Gentle windings to the tender greening of April meddles.
 
 
 ```
-This passion lifted upon arm lean'd; not rising, from supreme contempt.
+This passion lifted upon his arm he lean'd; not rising, from supreme contempt.
 ```
 
 
