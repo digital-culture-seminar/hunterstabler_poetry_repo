@@ -154,7 +154,7 @@ echoes in a beelze's compound eye
 ```
 O let me taste that sweet sound once more, 
 the thought after thought to nourish uphill gyroscopic spires
-trickle down from cathedral vaulting antipodal pole of the mind
+trickle down from cathedral vaulting antipodal pole of the hivemind
 ```
 ```
 involuntarily
