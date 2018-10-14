@@ -96,8 +96,6 @@ calming ghostly pipes
 monotrope amethyst sleep
 orbs blink and soften
 Esper's crystal eye.
-
-
 ```
 ```
 A pauper's coffin
@@ -140,7 +138,6 @@ reckoning the yet to occur illness
 ```
 a rattling that unhinged the mind from time
 ```
-
 ```
 What bezel lens through the bee-mouth sips: 
 Ay, in those meads where sometimes secrets to the puzzle finds
@@ -149,7 +146,7 @@ Ay, in those meads where sometimes secrets to the puzzle finds
 endgame buzzer ringing tines
 ```
 ```
-echoes in a beelze's compound eye
+echoes in a compound eye
 ```
 ```
 O let me taste that sweet sound once more, 
