@@ -149,7 +149,7 @@ Ay, in those meads where sometimes secrets to the puzzle finds
 endgame buzzer ringing tines
 ```
 ```
-echoes in a beezle's compound eye
+echoes in a beelze's compound eye
 ```
 ```
 O let me taste that sweet sound once more, 
