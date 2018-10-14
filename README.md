@@ -80,8 +80,10 @@ While the ermine let music wander skittering round my ears.
 What is more soothing to me than these songs of mine?
 ```
 ```
-Who shall his fame impair when thou art capable, As thou exceedest all things in thy silent mind? Unbounded knowledge makes a God as wrathful as himself. Thou hath smelteth surely dealteth unholy
-effervescent vespers of the swine
+Who shall his fame impair when thou art capable, As thou exceedest all things in thy silent mind? 
+Unbounded knowledge makes a God as wrathful as himself. 
+Thou hath smelteth surely dealteth 
+unholy effervescent vespers of the swine
 ```
 ```
 Redolent of sulfur twine
@@ -102,7 +104,14 @@ A pauper's coffin
 from billowy vagueness shies
 ```
 ```
-Unravish'd bride of quietness, Thou foster-child of silence and slowly animated through clouds of divinorum and of morn float in voluptuous fleeces o'er the quartz clearness, to woo its own sad image into nearness: Death to light you, or mourn the light of death to show you, Like thin silver streaks across the sky, And I will tell thee what thou wouldst have been?
+Unravish'd bride of quietness, 
+Thou foster-child of silence 
+and slowly animated through clouds of divinorum 
+and of morn float in voluptuous fleeces o'er the quartz clearness, 
+to woo its own sad image into nearness: 
+Death to light you, or mourn the light of death to show you, 
+Like thin silver streaks across the sky, 
+And I will tell thee what thou wouldst have been?
 ```
 ```
 Nay, a blackest shape
@@ -119,7 +128,7 @@ Not waiting until after to learn what it has to teach
 ```
 ```
 For what a height my spirit leaps, and prances, E'en then my soul with exultation dances
-For that finality from outside perspective glances.
+for that finality from outside perspective glances.
 ```
 
 
