@@ -37,12 +37,12 @@ But what is fair?
 
 
 ```
-The bowery shore went off in gentle windings to the tender greening of April meddles.
+Gentle windings to the tender greening of April meddles.
 ```
 
 
 ```
-This passion lifted him upon his arm he lean'd; not rising, from supreme contempt.
+This passion lifted upon arm lean'd; not rising, from supreme contempt.
 ```
 
 
@@ -70,7 +70,7 @@ To the wide-spreaded night above her towers end.
 ```
 At a touch sweet pleasure melteth like bubbles when rain pelteth; 
 Then let winged fancy wander through the thought of every guest
-that each, as he had found a little noiseless noise among the em'rald tresses; 
+that each had found a little noiseless noise among the em'rald tresses; 
 While the ermine let music wander skittering round my ears.
 ```
 
