@@ -11,7 +11,7 @@ will be controlled by random number generation that decides which particular nou
 
 I aim to use code as a divination tool to access the collective consciousness of computational chance at a continually changing present moment. My curation of the results is dictated by the throwing of sticks. The creation and curation of my poetry corpus is channeled from the trance state induced through the virtual chewing of the leaves of the Salvia Divinorum plant-teacher and her accompanying light body as she transects linear time, within a modded version of the video game *The Sims4*. Through the simulated avatar-shaman’s piecemeal quantum scanning of linear causality within the video game, we hope to coax a  multidimensional cymatic hologram of the virtual eschaton, which will theoretically be analogous to the hyperdimensional object at the end of time within the “real” universe as well. Thus, by glimpsing a crude digital sketch of the eschatological eye of the ineffable,  I can better prepare for uploading my existence into non-linear communion with the bold axis of cosmological infinite programmatic knowledge when my mortal coil becomes obsolete.
 
-A generated poem example can be seen below:
+Two Markov generator augmented poem examples can be seen below:
 
 ## A Testuary Exegesis
 ```
@@ -71,6 +71,79 @@ At a touch sweet pleasure melteth like bubbles when rain pelteth;
 Then let winged fancy wander through the thought of every guest
 that each, as he had found a little noiseless noise among the em'rald tresses; 
 While the ermine let music wander skittering round my ears.
+```
+
+
+##Songs of mine
+```
+What is more soothing to me than these songs of mine?
+```
+```
+Who shall his fame impair when thou art capable, As thou exceedest all things in thy silent mind? Unbounded knowledge makes a God as wrathful as himself. Thou hath smelteth surely dealteth unholy
+effervescent vespers of the swine
+```
+```
+Redolent of sulfur twine
+round esters offside apothecary shelf
+tremors imbibe
+a crescent indigo swill
+```
+```
+calming ghostly pipes
+amethyst sleep
+orbs blink and soften
+Esper's crystal eye.
+
+
+```
+```
+A pauper's coffin
+from billowy vagueness shies
+```
+```
+Unravish'd bride of quietness, Thou foster-child of silence and slowly animated through clouds of divinorum and of morn float in voluptuous fleeces o'er the quartz clearness, to woo its own sad image into nearness: Death to light you, or mourn the light of death to show you, Like thin silver streaks across the sky, And I will tell thee what thou wouldst have been?
+```
+```
+Nay, a blackest shape
+reconciled internally
+```
+```
+horselike
+```
+```
+Knowing now each piece
+```
+```
+Not waiting until after to learn what it has to teach
+```
+```
+For what a height my spirit leaps, and prances, E'en then my soul with exultation dances
+For that finality from outside perspective glances.
+```
+
+
+```
+Shut up senses, telesthesiastic gyres
+wait in the stillness.
+Finally from inside perspective smote
+reckoning the yet to occur illness
+```
+```
+a rattling that unhinged the mind from time
+```
+
+```
+What lens through the bee-mouth sips: Ay, in those meads where sometimes secrets to the puzzle finds
+```
+```
+endgame buzzer ringing tines
+```
+```
+O let me taste that once more, the thought after thought to nourish uphill gyroscopic spires
+trickle down from cathedral vaulting antipodal pole of the mind
+```
+```
+involuntarily
 ```
 
 Through the intervention of many random ecstatic computational poem iterations, cryptically prophetic metaphorical meaning will spill from the shadow of the future into the present. Unfortunately, the meaning of said poems will only become fully clear to the consensus public after the events have occurred, not earlier when the prescient poem was generated. This outstanding problem of interpreting vague metaphors about future events is one best left to poets, the time tested masters of singular, direct, and objective, semiotics and semantics.
