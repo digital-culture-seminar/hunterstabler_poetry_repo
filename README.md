@@ -142,11 +142,14 @@ a rattling that unhinged the mind from time
 ```
 
 ```
-What lens through the bee-mouth sips: 
+What bezel lens through the bee-mouth sips: 
 Ay, in those meads where sometimes secrets to the puzzle finds
 ```
 ```
 endgame buzzer ringing tines
+```
+```
+echoes in a beezle's compound eye
 ```
 ```
 O let me taste that sweet sound once more, 
