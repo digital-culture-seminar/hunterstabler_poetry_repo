@@ -110,7 +110,7 @@ and slowly animated through clouds of divinorum
 and of morn float in voluptuous fleeces o'er the quartz clearness, 
 to woo its own sad image into nearness: 
 Death to light you, or mourn the light of death to show you, 
-Like thin silver streaks across the sky, 
+beryl fissure leaks like thin silver streaks across the sky,
 And I will tell thee what thou wouldst have been?
 ```
 ```
@@ -118,7 +118,7 @@ Nay, a blackest shape
 reconciled internally
 ```
 ```
-horselike
+horselike tourmaline
 ```
 ```
 Knowing now each piece
