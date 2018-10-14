@@ -1,6 +1,7 @@
 
-# Digital Culture Poet
-## Artist Statement
+# Hunter Stabler
+## Poet/Artist Statement
+### Digital Culture Seminar
 
 I am using a Markov Generator to create a poem that uses many Keats' poems and one of my poems as the source of text. I will experiment with weighting the libraries to get desirable results that reflect the style of both poets. Currently the flavor favors Keats because there is just so much more Keats material that the generator is sourcing from.
 
