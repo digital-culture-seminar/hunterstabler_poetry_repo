@@ -93,7 +93,7 @@ a crescent indigo swill
 ```
 ```
 calming ghostly pipes
-amethyst sleep
+monotrope amethyst sleep
 orbs blink and soften
 Esper's crystal eye.
 
