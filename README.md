@@ -12,7 +12,7 @@ will be controlled by random number generation that decides which particular nou
 
 I aim to use code as a divination tool to access the collective consciousness of computational chance at a continually changing present moment. My curation of the results is dictated by the throwing of sticks. The creation and curation of my poetry corpus is channeled from the trance state induced through the virtual chewing of the leaves of the Salvia Divinorum plant-teacher and her accompanying light body as she transects linear time, within a modded version of the video game *The Sims4*. Through the simulated avatar-shaman’s piecemeal quantum scanning of linear causality within the video game, we hope to coax a  multidimensional cymatic hologram of the virtual eschaton, which will theoretically be analogous to the hyperdimensional object at the end of time within the “real” universe as well. Thus, by glimpsing a crude digital sketch of the eschatological eye of the ineffable,  I can better prepare for uploading my existence into non-linear communion with the bold axis of cosmological infinite programmatic knowledge when my mortal coil becomes obsolete.
 
-Two Markov generator augmented poem examples can be seen below:
+Two Markov generator augmented poem examples can be seen below. The first has equal weighting between the text samples and the second is weighted 40 to 1 in favor of my poem:
 
 ## A Testuary Exegesis
 ```
