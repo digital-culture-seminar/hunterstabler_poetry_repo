@@ -149,7 +149,8 @@ Ay, in those meads where sometimes secrets to the puzzle finds
 endgame buzzer ringing tines
 ```
 ```
-O let me taste that once more, the thought after thought to nourish uphill gyroscopic spires
+O let me taste that sweet sound once more, 
+the thought after thought to nourish uphill gyroscopic spires
 trickle down from cathedral vaulting antipodal pole of the mind
 ```
 ```
