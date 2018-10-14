@@ -127,11 +127,10 @@ Knowing now each piece
 Not waiting until after to learn what it has to teach
 ```
 ```
-For what a height my spirit leaps, and prances, E'en then my soul with exultation dances
+For what a height my spirit leaps, and prances, 
+E'en then my soul with exultation dances
 for that finality from outside perspective glances.
 ```
-
-
 ```
 Shut up senses, telesthesiastic gyres
 wait in the stillness.
@@ -143,7 +142,8 @@ a rattling that unhinged the mind from time
 ```
 
 ```
-What lens through the bee-mouth sips: Ay, in those meads where sometimes secrets to the puzzle finds
+What lens through the bee-mouth sips: 
+Ay, in those meads where sometimes secrets to the puzzle finds
 ```
 ```
 endgame buzzer ringing tines
