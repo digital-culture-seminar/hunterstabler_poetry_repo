@@ -1,0 +1,56 @@
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Oct  2 19:22:14 2018
+
+@author: hunterstabler
+"""
+#mylist = [] i
+#for i in range(0,5):
+#    my_list.append(synthesized_model.make_sentence(140))
+
+import markovify
+
+with open ("experimental artist statement_2017.txt") as file:
+    eas = file.read()
+    
+with open ("keats_02_edited.txt") as file:
+    keats2 = file.read()
+    
+with open ("keats_edited.txt") as file:
+    keats = file.read()
+    
+with open ("palace_of_pleasure.txt") as file:
+    p_o_p = file.read()
+    
+power_model = markovify.Text(eas)
+bull_model = markovify.Text(keats2)
+pag_model = markovify.Text(keats)
+pal_model = markovify.Text(p_o_p)
+
+synthesized_model = markovify.combine([power_model, bull_model, pag_model],[10,1,1])
+
+#for i in range(3):
+   # print power_model.make_sentence()
+    #print " "
+
+    
+poem = synthesized_model.make_sentence()
+
+#with open("poem_experiment_class.md", "w") as f: 
+#    f.write("## Title")
+#    f.write("\n")        
+#    f.write("'''")
+#    f.write("\n") 
+#    f.write(poem)
+#    f.write("\n") 
+#    f.write("'''")
+    
+    
+with open("keats_poem_09.md", "a") as f:
+    f.write("""
+
+```
+{poem}
+```
+""".format(poem=poem))
