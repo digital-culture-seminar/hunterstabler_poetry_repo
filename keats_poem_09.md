@@ -63,3 +63,8 @@ The little sweet doth kill much bitterness; Though Dido silent is in sunbeams dr
 ```
 For heaven is with the cross above Upholding wreaths of smoke From fifty censers their light voyage took 180 To the o'erhanging sallows: blades of grass Slowly across the moors, Had come young Porphyro, with heart on fire For Madeline.
 ```
+
+
+```
+And can I e'er repay the friendly aids That smooth the path to die.
+```
