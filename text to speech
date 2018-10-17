@@ -19,10 +19,10 @@ from playsound import playsound
 from gtts import gTTS
 
 # text to speech
-tts = gTTS(text="Hello world", lang="en")
+tts = gTTS(text="I am google hear me roar. robots don't pee on the floor", lang="en")
 
 # write audio file
-tts.save("hello-world.mp3")
+tts.save("robot.mp3")
 
 # play audio file
-playsound("hello-world.mp3")
+playsound("robot.mp3")
